@@ -1,0 +1,260 @@
+{
+    "nhits": 20453,
+    "parameters": {
+        "dataset": "liste_des_prenoms",
+        "timezone": "UTC",
+        "rows": 10,
+        "format": "json",
+        "facet": [
+            "sexe",
+            "annee",
+            "prenoms"
+        ]
+    },
+    "records": [
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "a5c4ee85b1c609ab6f8af3a30996be2f4358bfc6",
+            "fields": {
+                "nombre": 16,
+                "annee": "2013",
+                "nombre_total_cumule": 16,
+                "sexe": "F",
+                "prenoms": "Audrey"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "e421e016d3db2fadba4cd410bd3670c64c2c1efd",
+            "fields": {
+                "nombre": 5,
+                "annee": "2013",
+                "nombre_total_cumule": 5,
+                "sexe": "F",
+                "prenoms": "Balkis"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "8f9aece3abdcc6e5f28e034dc40cd9ffe291c684",
+            "fields": {
+                "nombre": 89,
+                "annee": "2013",
+                "nombre_total_cumule": 89,
+                "sexe": "M",
+                "prenoms": "Baptiste"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "e21525dc0bd09a9d49b84e772e44f5346dc503c7",
+            "fields": {
+                "nombre": 17,
+                "annee": "2013",
+                "nombre_total_cumule": 17,
+                "sexe": "F",
+                "prenoms": "Camélia"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "6b8e0d8cc9355004a838cb0d848dbbfb396fce13",
+            "fields": {
+                "nombre": 5,
+                "annee": "2013",
+                "nombre_total_cumule": 5,
+                "sexe": "F",
+                "prenoms": "Cloé"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "972619f17d47c0a4549235e9e9a2e20654bf21a4",
+            "fields": {
+                "nombre": 5,
+                "annee": "2013",
+                "nombre_total_cumule": 5,
+                "sexe": "M",
+                "prenoms": "Cyriaque"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "7f5d149bf2c668ab761abb8783e6a0a9967a518a",
+            "fields": {
+                "nombre": 8,
+                "annee": "2013",
+                "nombre_total_cumule": 8,
+                "sexe": "M",
+                "prenoms": "Denis"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "e0ca4a5ca240ae61fde57646b2f4f72b65f39b47",
+            "fields": {
+                "nombre": 10,
+                "annee": "2013",
+                "nombre_total_cumule": 10,
+                "sexe": "F",
+                "prenoms": "Domitille"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "001b1effbec62287b23b4c7aba3b5427f0136bb0",
+            "fields": {
+                "nombre": 24,
+                "annee": "2013",
+                "nombre_total_cumule": 24,
+                "sexe": "M",
+                "prenoms": "Elio"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        },
+        {
+            "datasetid": "liste_des_prenoms",
+            "recordid": "848a4d9161270a7f2b1d6c718120d79cf8e8a382",
+            "fields": {
+                "nombre": 7,
+                "annee": "2013",
+                "nombre_total_cumule": 7,
+                "sexe": "M",
+                "prenoms": "Elliott"
+            },
+            "record_timestamp": "2020-01-20T14:52:55.451000+00:00"
+        }
+    ],
+    "facet_groups": [
+        {
+            "facets": [
+                {
+                    "count": 1172,
+                    "path": "2004",
+                    "state": "displayed",
+                    "name": "2004"
+                },
+                {
+                    "count": 1223,
+                    "path": "2005",
+                    "state": "displayed",
+                    "name": "2005"
+                },
+                {
+                    "count": 1254,
+                    "path": "2006",
+                    "state": "displayed",
+                    "name": "2006"
+                },
+                {
+                    "count": 1243,
+                    "path": "2007",
+                    "state": "displayed",
+                    "name": "2007"
+                },
+                {
+                    "count": 1255,
+                    "path": "2008",
+                    "state": "displayed",
+                    "name": "2008"
+                },
+                {
+                    "count": 1306,
+                    "path": "2009",
+                    "state": "displayed",
+                    "name": "2009"
+                },
+                {
+                    "count": 1311,
+                    "path": "2010",
+                    "state": "displayed",
+                    "name": "2010"
+                },
+                {
+                    "count": 1296,
+                    "path": "2011",
+                    "state": "displayed",
+                    "name": "2011"
+                },
+                {
+                    "count": 1302,
+                    "path": "2012",
+                    "state": "displayed",
+                    "name": "2012"
+                },
+                {
+                    "count": 1283,
+                    "path": "2013",
+                    "state": "displayed",
+                    "name": "2013"
+                },
+                {
+                    "count": 1312,
+                    "path": "2014",
+                    "state": "displayed",
+                    "name": "2014"
+                },
+                {
+                    "count": 1303,
+                    "path": "2015",
+                    "state": "displayed",
+                    "name": "2015"
+                },
+                {
+                    "count": 1310,
+                    "path": "2016",
+                    "state": "displayed",
+                    "name": "2016"
+                },
+                {
+                    "count": 1313,
+                    "path": "2017",
+                    "state": "displayed",
+                    "name": "2017"
+                },
+                {
+                    "count": 1278,
+                    "path": "2018",
+                    "state": "displayed",
+                    "name": "2018"
+                },
+                {
+                    "count": 1292,
+                    "path": "2019",
+                    "state": "displayed",
+                    "name": "2019"
+                }
+            ],
+            "name": "annee"
+        },
+        {
+            "facets": [
+                {
+                    "count": 10392,
+                    "path": "F",
+                    "state": "displayed",
+                    "name": "F"
+                },
+                {
+                    "count": 10061,
+                    "path": "M",
+                    "state": "displayed",
+                    "name": "M"
+                }
+            ],
+            "name": "sexe"
+        },
+        {
+            "facets": [],
+            "name": "prenoms"
+        }
+    ]
+}
